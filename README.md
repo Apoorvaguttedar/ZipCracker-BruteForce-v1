@@ -13,6 +13,9 @@ This project showcases how weak ZIP file protection can be broken by systematica
 
 4.Password Cracked -->https://github.com/Apoorvaguttedar/ZipCracker-BruteForce-v1/blob/main/snapshots/Password%20cracked.png
 
+
+
+
 🚀 Features
 Upload any password-protected .zip file.
 Upload a custom wordlist to try potential passwords.
@@ -21,6 +24,10 @@ See real-time results including:
 * Number of attempts
 * Time taken
 Styled in a terminal-style hacker UI for immersive experience.
+
+
+
+
 
 🧠 Technologies Used
 Python 3
@@ -43,6 +50,8 @@ zip-cracker/
 
 
 
+
+
 🛠️ How to Run
 1 Install Flask:
 pip install flask
@@ -52,10 +61,16 @@ python app.py
 http://localhost:5000
 
 
+
+
+
 🔎 How It Works
 Takes the uploaded .zip file and reads passwords from the provided wordlist file.
 Tries each password one by one until the ZIP opens successfully or the list is exhausted.
 Displays cracking result with attempts and time stats.
+
+
+
 
 
 📂 Sample Wordlist Format
@@ -67,6 +82,9 @@ qwerty
 letmein
 password123
 hunter2 etc...
+
+
+
 
 
 ⚠️ Disclaimer
