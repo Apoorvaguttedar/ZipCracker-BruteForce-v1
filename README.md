@@ -3,7 +3,8 @@ A Python + Flask-based educational tool to demonstrate brute-force password crac
 This project showcases how weak ZIP file protection can be broken by systematically trying all possible passwords.
 
 
-📸 Demo Screenshot
+📸 Demo Screenshot:
+
 1.Crack the Zip file password --> https://github.com/Apoorvaguttedar/ZipCracker-BruteForce-v1/blob/main/snapshots/Check_zipfile.png
 
 2.Add Zipfile-->https://github.com/Apoorvaguttedar/ZipCracker-BruteForce-v1/blob/main/snapshots/Add_ZipFile.png
